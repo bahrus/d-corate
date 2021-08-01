@@ -1,1 +1,1 @@
-# d-core
+# d-corate
